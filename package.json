@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cypress/get-windows-proxy": "^1.6.2",
+    "registry-js": "^1.15.1"
+  }
+}
